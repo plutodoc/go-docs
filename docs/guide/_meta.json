@@ -41,5 +41,11 @@
     "name": "expvar",
     "label": "expvar",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "flag",
+    "label": "flag",
+    "collapsed": true
   }
 ]
