@@ -11,5 +11,11 @@
     "name": "builtin",
     "label": "builtin",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "bytes",
+    "label": "bytes",
+    "collapsed": true
   }
 ]
