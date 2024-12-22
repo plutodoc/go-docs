@@ -29,5 +29,11 @@
     "name": "embed",
     "label": "embed",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "errors",
+    "label": "errors",
+    "collapsed": true
   }
 ]
