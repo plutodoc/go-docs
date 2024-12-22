@@ -62,6 +62,12 @@
   },
   {
     "type": "dir",
+    "name": "strings",
+    "label": "strings",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "unsafe",
     "label": "unsafe",
     "collapsed": true
