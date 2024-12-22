@@ -17,5 +17,11 @@
     "name": "bytes",
     "label": "bytes",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "context",
+    "label": "context",
+    "collapsed": true
   }
 ]
