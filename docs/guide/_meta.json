@@ -53,5 +53,11 @@
     "name": "fmt",
     "label": "fmt",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "plugin",
+    "label": "plugin",
+    "collapsed": true
   }
 ]
