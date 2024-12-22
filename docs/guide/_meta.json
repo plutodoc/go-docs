@@ -35,5 +35,11 @@
     "name": "errors",
     "label": "errors",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "expvar",
+    "label": "expvar",
+    "collapsed": true
   }
 ]
