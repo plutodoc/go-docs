@@ -5,5 +5,11 @@
     "name": "bufio",
     "label": "bufio",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "builtin",
+    "label": "builtin",
+    "collapsed": true
   }
 ]
