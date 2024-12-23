@@ -92,6 +92,12 @@
   },
   {
     "type": "dir",
+    "name": "unicode",
+    "label": "unicode",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "unsafe",
     "label": "unsafe",
     "collapsed": true
