@@ -10,5 +10,11 @@
     "name": "flate",
     "label": "flate",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "gzip",
+    "label": "gzip",
+    "collapsed": true
   }
 ]
