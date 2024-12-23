@@ -4,5 +4,11 @@
     "name": "bzip2",
     "label": "bzip2",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "flate",
+    "label": "flate",
+    "collapsed": true
   }
 ]
