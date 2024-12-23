@@ -19,6 +19,7 @@ export default defineConfig({
     ],
   },
   markdown: {
+    checkDeadLinks: true,
     showLineNumbers: true,
   },
 });
