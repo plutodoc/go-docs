@@ -68,6 +68,12 @@
   },
   {
     "type": "dir",
+    "name": "strconv",
+    "label": "strconv",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "strings",
     "label": "strings",
     "collapsed": true
