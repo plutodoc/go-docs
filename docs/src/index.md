@@ -1,10 +1,12 @@
 # Markdown & MDX
 
-Rspress supports not only Markdown but also [MDX](https://mdxjs.com/), a powerful way to develop content.
+Rspress supports not only Markdown but also [MDX](https://mdxjs.com/), a
+powerful way to develop content.
 
 ## Markdown
 
-MDX is a superset of Markdown, which means you can write Markdown files as usual. For example:
+MDX is a superset of Markdown, which means you can write Markdown files as
+usual. For example:
 
 ```md
 # Hello World
@@ -12,7 +14,8 @@ MDX is a superset of Markdown, which means you can write Markdown files as usual
 
 ## Use Component
 
-When you want to use React components in Markdown files, you should name your files with `.mdx` extension. For example:
+When you want to use React components in Markdown files, you should name your
+files with `.mdx` extension. For example:
 
 ```mdx
 // docs/index.mdx
@@ -25,7 +28,8 @@ import { CustomComponent } from './custom';
 
 ## Front Matter
 
-You can add Front Matter at the beginning of your Markdown file, which is a YAML-formatted object that defines some metadata. For example:
+You can add Front Matter at the beginning of your Markdown file, which is a
+YAML-formatted object that defines some metadata. For example:
 
 ```yaml
 ---
@@ -45,7 +49,8 @@ title: Hello World
 # {frontmatter.title}
 ```
 
-The previously defined properties will be passed to the component as `frontmatter` properties. So the final output will be:
+The previously defined properties will be passed to the component as
+`frontmatter` properties. So the final output will be:
 
 ```html
 <h1>Hello World</h1>
@@ -53,101 +58,76 @@ The previously defined properties will be passed to the component as `frontmatte
 
 ## Custom Container
 
-You can use the `:::` syntax to create custom containers and support custom titles. For example:
+You can use the `:::` syntax to create custom containers and support custom
+titles. For example:
 
 **Input:**
 
 ```markdown
-:::tip
-This is a `block` of type `tip`
-:::
+:::tip This is a `block` of type `tip` :::
 
-:::info
-This is a `block` of type `info`
-:::
+:::info This is a `block` of type `info` :::
 
-:::warning
-This is a `block` of type `warning`
-:::
+:::warning This is a `block` of type `warning` :::
 
-:::danger
-This is a `block` of type `danger`
-:::
+:::danger This is a `block` of type `danger` :::
 
-::: details
-This is a `block` of type `details`
-:::
+::: details This is a `block` of type `details` :::
 
-:::tip Custom Title
-This is a `block` of `Custom Title`
-:::
+:::tip Custom Title This is a `block` of `Custom Title` :::
 
-:::tip{title="Custom Title"}
-This is a `block` of `Custom Title`
-:::
+:::tip{title="Custom Title"} This is a `block` of `Custom Title` :::
 ```
 
 **Output:**
 
-:::tip
-This is a `block` of type `tip`
-:::
+:::tip This is a `block` of type `tip` :::
 
-:::info
-This is a `block` of type `info`
-:::
+:::info This is a `block` of type `info` :::
 
-:::warning
-This is a `block` of type `warning`
-:::
+:::warning This is a `block` of type `warning` :::
 
-:::danger
-This is a `block` of type `danger`
-:::
+:::danger This is a `block` of type `danger` :::
 
-::: details
-This is a `block` of type `details`
-:::
+::: details This is a `block` of type `details` :::
 
-:::tip Custom Title
-This is a `block` of `Custom Title`
-:::
+:::tip Custom Title This is a `block` of `Custom Title` :::
 
-:::tip{title="Custom Title"}
-This is a `block` of `Custom Title`
-:::
+:::tip{title="Custom Title"} This is a `block` of `Custom Title` :::
 
 ## Code Block
 
 ### Basic Usage
 
-You can use the \`\`\` syntax to create code blocks and support custom titles. For example:
+You can use the \`\`\` syntax to create code blocks and support custom titles.
+For example:
 
 **Input:**
 
 ````md
 ```js
-console.log('Hello World');
+console.log("Hello World");
 ```
 
 ```js title="hello.js"
-console.log('Hello World');
+console.log("Hello World");
 ```
 ````
 
 **Output:**
 
 ```js
-console.log('Hello World');
+console.log("Hello World");
 ```
 
 ```js title="hello.js"
-console.log('Hello World');
+console.log("Hello World");
 ```
 
 ### Show Line Numbers
 
-If you want to display line numbers, you can enable the `showLineNumbers` option in the config file:
+If you want to display line numbers, you can enable the `showLineNumbers` option
+in the config file:
 
 ```ts title="rspress.config.ts"
 export default {
@@ -160,7 +140,8 @@ export default {
 
 ### Wrap Code
 
-If you want to wrap long code line by default, you can enable the `defaultWrapCode` option in the config file:
+If you want to wrap long code line by default, you can enable the
+`defaultWrapCode` option in the config file:
 
 ```ts title="rspress.config.ts"
 export default {
@@ -173,13 +154,14 @@ export default {
 
 ### Line Highlighting
 
-You can also apply line highlighting and code block title at the same time, for example:
+You can also apply line highlighting and code block title at the same time, for
+example:
 
 **Input:**
 
 ````md
 ```js title="hello.js" {1,3-5}
-console.log('Hello World');
+console.log("Hello World");
 
 const a = 1;
 
@@ -194,7 +176,7 @@ console.log(b);
 **Ouput:**
 
 ```js title="hello.js" {1,3-5}
-console.log('Hello World');
+console.log("Hello World");
 
 const a = 1;
 
