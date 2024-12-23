@@ -16,5 +16,11 @@
     "name": "gzip",
     "label": "gzip",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "lzw",
+    "label": "lzw",
+    "collapsed": true
   }
 ]
