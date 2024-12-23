@@ -1,4 +1,8 @@
-[
+[  {
+  "text": "Standard Library",
+  "link": "/std/",
+  "activeMatch": "/std/"
+},
   {
     "text": "Source Code",
     "link": "/src/",
