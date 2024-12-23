@@ -1,7 +1,7 @@
 [
   {
-    "text": "Guide",
-    "link": "/guide/",
-    "activeMatch": "/guide/"
+    "text": "Source Code",
+    "link": "/src/",
+    "activeMatch": "/src/"
   }
 ]
