@@ -18,4 +18,7 @@ export default defineConfig({
       },
     ],
   },
+  markdown: {
+    showLineNumbers: true,
+  },
 });
