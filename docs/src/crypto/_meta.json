@@ -17,5 +17,11 @@
     "name": "des",
     "label": "des",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "dsa",
+    "label": "dsa",
+    "collapsed": true
   }
 ]
