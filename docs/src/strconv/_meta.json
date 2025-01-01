@@ -1,0 +1,16 @@
+[
+  "atob",
+  "atoc",
+  "atof",
+  "atoi",
+  "bytealg",
+  "ctoa",
+  "decimal",
+  "doc",
+  "eisel_lemire",
+  "ftoa",
+  "ftoaryu",
+  "isprint",
+  "itoa",
+  "quote"
+]
