@@ -98,6 +98,12 @@
   },
   {
     "type": "dir",
+    "name": "math",
+    "label": "math",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "plugin",
     "label": "plugin",
     "collapsed": true
