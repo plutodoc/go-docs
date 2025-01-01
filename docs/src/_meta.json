@@ -116,6 +116,12 @@
   },
   {
     "type": "dir",
+    "name": "reflect",
+    "label": "reflect",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "sort",
     "label": "sort",
     "collapsed": true
