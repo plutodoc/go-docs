@@ -65,5 +65,11 @@
     "name": "sort",
     "label": "sort",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "strconv",
+    "label": "strconv",
+    "collapsed": true
   }
 ]
