@@ -104,6 +104,12 @@
   },
   {
     "type": "dir",
+    "name": "mime",
+    "label": "mime",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "plugin",
     "label": "plugin",
     "collapsed": true
