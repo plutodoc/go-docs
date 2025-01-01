@@ -1,0 +1,11 @@
+[
+  "allocs",
+  "benchmark",
+  "cover",
+  "example",
+  "fuzz",
+  "match",
+  "run_example",
+  "testing",
+  "testing_other"
+]
