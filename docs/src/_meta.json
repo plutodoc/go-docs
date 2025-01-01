@@ -146,6 +146,12 @@
   },
   {
     "type": "dir",
+    "name": "sync",
+    "label": "sync",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "unsafe",
     "label": "unsafe",
     "collapsed": true
