@@ -1,5 +1,10 @@
 [
   {
+    "text": "Source Code",
+    "link": "/src/",
+    "activeMatch": "/src/"
+  },
+  {
     "text": "Guide",
     "link": "/guide/",
     "activeMatch": "/guide/"
