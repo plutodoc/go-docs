@@ -38,6 +38,12 @@
   },
   {
     "type": "dir",
+    "name": "encoding",
+    "label": "encoding",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "errors",
     "label": "errors",
     "collapsed": true
