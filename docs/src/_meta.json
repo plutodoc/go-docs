@@ -47,5 +47,11 @@
     "name": "flag",
     "label": "flag",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "fmt",
+    "label": "fmt",
+    "collapsed": true
   }
 ]
