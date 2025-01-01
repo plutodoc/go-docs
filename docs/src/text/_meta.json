@@ -10,5 +10,11 @@
     "name": "tabwriter",
     "label": "tabwriter",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "template",
+    "label": "template",
+    "collapsed": true
   }
 ]
