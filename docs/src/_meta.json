@@ -166,7 +166,7 @@
     "type": "dir",
     "name": "unicode",
     "label": "unicode",
-    "collapsed": true
+    "collapsed": false
   },
   {
     "type": "dir",
