@@ -26,6 +26,12 @@
   },
   {
     "type": "dir",
+    "name": "crypto",
+    "label": "crypto",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "embed",
     "label": "embed",
     "collapsed": true
