@@ -104,8 +104,20 @@
   },
   {
     "type": "dir",
+    "name": "mime",
+    "label": "mime",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "plugin",
     "label": "plugin",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "reflect",
+    "label": "reflect",
     "collapsed": true
   },
   {
