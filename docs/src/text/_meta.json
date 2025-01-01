@@ -4,5 +4,11 @@
     "name": "scanner",
     "label": "scanner",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "tabwriter",
+    "label": "tabwriter",
+    "collapsed": true
   }
 ]
