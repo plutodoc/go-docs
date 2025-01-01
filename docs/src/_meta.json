@@ -158,6 +158,12 @@
   },
   {
     "type": "dir",
+    "name": "time",
+    "label": "time",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "unsafe",
     "label": "unsafe",
     "collapsed": true
