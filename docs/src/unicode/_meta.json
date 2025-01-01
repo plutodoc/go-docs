@@ -9,5 +9,11 @@
     "name": "utf16",
     "label": "utf16",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "utf8",
+    "label": "utf8",
+    "collapsed": true
   }
 ]
