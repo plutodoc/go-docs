@@ -59,5 +59,11 @@
     "name": "plugin",
     "label": "plugin",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "sort",
+    "label": "sort",
+    "collapsed": true
   }
 ]
