@@ -23,5 +23,11 @@
     "name": "context",
     "label": "context",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "embed",
+    "label": "embed",
+    "collapsed": true
   }
 ]
