@@ -152,6 +152,12 @@
   },
   {
     "type": "dir",
+    "name": "testing",
+    "label": "testing",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
     "name": "unsafe",
     "label": "unsafe",
     "collapsed": true
