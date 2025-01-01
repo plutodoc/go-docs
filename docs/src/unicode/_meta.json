@@ -1,1 +1,13 @@
-["casetables", "digit", "graphic", "letter", "tables"]
+[
+  "casetables",
+  "digit",
+  "graphic",
+  "letter",
+  "tables",
+  {
+    "type": "dir",
+    "name": "utf16",
+    "label": "utf16",
+    "collapsed": true
+  }
+]
