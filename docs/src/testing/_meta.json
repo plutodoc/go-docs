@@ -7,5 +7,17 @@
   "match",
   "run_example",
   "testing",
-  "testing_other"
+  "testing_other",
+  {
+    "type": "dir",
+    "name": "fstest",
+    "label": "fstest",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "iotest",
+    "label": "iotest",
+    "collapsed": true
+  }
 ]
