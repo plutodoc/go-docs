@@ -2,6 +2,12 @@
   "index",
   {
     "type": "dir",
+    "name": "archive",
+    "label": "archive",
+    "collapsed": false
+  },
+  {
+    "type": "dir",
     "name": "bufio",
     "label": "bufio",
     "collapsed": true
