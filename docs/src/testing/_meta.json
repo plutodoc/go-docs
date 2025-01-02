@@ -19,5 +19,11 @@
     "name": "iotest",
     "label": "iotest",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "quick",
+    "label": "quick",
+    "collapsed": true
   }
 ]
