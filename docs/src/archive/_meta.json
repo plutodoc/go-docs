@@ -4,5 +4,11 @@
     "name": "tar",
     "label": "tar",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "zip",
+    "label": "zip",
+    "collapsed": true
   }
 ]
