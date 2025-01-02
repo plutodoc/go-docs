@@ -148,7 +148,7 @@
     "type": "dir",
     "name": "sync",
     "label": "sync",
-    "collapsed": true
+    "collapsed": false
   },
   {
     "type": "dir",
