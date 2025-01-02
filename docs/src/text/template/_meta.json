@@ -1,1 +1,14 @@
-["doc", "exec", "funcs", "helper", "option", "template"]
+[
+  "doc",
+  "exec",
+  "funcs",
+  "helper",
+  "option",
+  "template",
+  {
+    "type": "dir",
+    "name": "parse",
+    "label": "parse",
+    "collapsed": true
+  }
+]
