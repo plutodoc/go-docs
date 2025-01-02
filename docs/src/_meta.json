@@ -154,7 +154,7 @@
     "type": "dir",
     "name": "testing",
     "label": "testing",
-    "collapsed": true
+    "collapsed": false
   },
   {
     "type": "dir",
