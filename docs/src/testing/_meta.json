@@ -13,5 +13,11 @@
     "name": "fstest",
     "label": "fstest",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "iotest",
+    "label": "iotest",
+    "collapsed": true
   }
 ]
