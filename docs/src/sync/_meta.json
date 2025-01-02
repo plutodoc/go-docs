@@ -8,5 +8,11 @@
   "runtime",
   "runtime2",
   "rwmutex",
-  "waitgroup"
+  "waitgroup",
+  {
+    "type": "dir",
+    "name": "atomic",
+    "label": "atomic",
+    "collapsed": true
+  }
 ]
