@@ -35,5 +35,11 @@
     "name": "ed25519",
     "label": "ed25519",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "elliptic",
+    "label": "elliptic",
+    "collapsed": true
   }
 ]
