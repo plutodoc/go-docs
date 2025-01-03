@@ -65,5 +65,11 @@
     "name": "rc4",
     "label": "rc4",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "rsa",
+    "label": "rsa",
+    "collapsed": true
   }
 ]
