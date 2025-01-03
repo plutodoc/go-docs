@@ -26,6 +26,12 @@
   },
   {
     "type": "dir",
+    "name": "compress",
+    "label": "compress",
+    "collapsed": false
+  },
+  {
+    "type": "dir",
     "name": "context",
     "label": "context",
     "collapsed": true
