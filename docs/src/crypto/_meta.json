@@ -47,5 +47,11 @@
     "name": "hmac",
     "label": "hmac",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "md5",
+    "label": "md5",
+    "collapsed": true
   }
 ]
