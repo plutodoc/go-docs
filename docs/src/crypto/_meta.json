@@ -41,5 +41,11 @@
     "name": "elliptic",
     "label": "elliptic",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "hmac",
+    "label": "hmac",
+    "collapsed": true
   }
 ]
