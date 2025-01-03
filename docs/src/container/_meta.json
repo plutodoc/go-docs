@@ -10,5 +10,11 @@
     "name": "list",
     "label": "list",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "ring",
+    "label": "ring",
+    "collapsed": true
   }
 ]
