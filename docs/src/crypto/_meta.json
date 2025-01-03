@@ -11,5 +11,11 @@
     "name": "cipher",
     "label": "cipher",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "des",
+    "label": "des",
+    "collapsed": true
   }
 ]
