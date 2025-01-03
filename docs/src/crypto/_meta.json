@@ -5,5 +5,11 @@
     "name": "aes",
     "label": "aes",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "cipher",
+    "label": "cipher",
+    "collapsed": true
   }
 ]
