@@ -22,5 +22,11 @@
     "name": "lzw",
     "label": "lzw",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "zlib",
+    "label": "zlib",
+    "collapsed": true
   }
 ]
