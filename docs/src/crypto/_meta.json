@@ -1,1 +1,9 @@
-["crypto"]
+[
+  "crypto",
+  {
+    "type": "dir",
+    "name": "aes",
+    "label": "aes",
+    "collapsed": true
+  }
+]
