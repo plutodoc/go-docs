@@ -95,5 +95,11 @@
     "name": "subtle",
     "label": "subtle",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "tls",
+    "label": "tls",
+    "collapsed": true
   }
 ]
