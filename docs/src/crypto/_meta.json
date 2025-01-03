@@ -23,5 +23,11 @@
     "name": "dsa",
     "label": "dsa",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "ecdsa",
+    "label": "ecdsa",
+    "collapsed": true
   }
 ]
