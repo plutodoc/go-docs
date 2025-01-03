@@ -46,7 +46,7 @@
     "type": "dir",
     "name": "crypto",
     "label": "crypto",
-    "collapsed": true
+    "collapsed": false
   },
   {
     "type": "dir",
