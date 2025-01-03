@@ -53,5 +53,17 @@
     "name": "md5",
     "label": "md5",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "rand",
+    "label": "rand",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "rc4",
+    "label": "rc4",
+    "collapsed": true
   }
 ]
