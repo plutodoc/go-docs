@@ -89,5 +89,11 @@
     "name": "sha512",
     "label": "sha512",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "subtle",
+    "label": "subtle",
+    "collapsed": true
   }
 ]
