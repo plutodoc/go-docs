@@ -16,5 +16,17 @@
     "name": "gzip",
     "label": "gzip",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "lzw",
+    "label": "lzw",
+    "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "zlib",
+    "label": "zlib",
+    "collapsed": true
   }
 ]
