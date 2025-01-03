@@ -32,6 +32,12 @@
   },
   {
     "type": "dir",
+    "name": "container",
+    "label": "container",
+    "collapsed": false
+  },
+  {
+    "type": "dir",
     "name": "context",
     "label": "context",
     "collapsed": true
