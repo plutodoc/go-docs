@@ -83,5 +83,11 @@
     "name": "sha256",
     "label": "sha256",
     "collapsed": true
+  },
+  {
+    "type": "dir",
+    "name": "sha512",
+    "label": "sha512",
+    "collapsed": true
   }
 ]
